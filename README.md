@@ -87,13 +87,11 @@ The latest version is version 0.1.
 ## Authors
 
 **Seun Oboite**
+**Vivus Hub**
 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) and [Checkmate Concevoir](https://www.checkmateconcevoir.com/terms/terms) free use license.
-
-## Acknowledgments
-
-* This was developed with strong motivation from the team at Checkmate Concevoir
+This project is licensed under the [MIT License](LICENSE) and [Vivus Hub](https://www.vivushub.com/terms/terms) free use license.
+ 
 
