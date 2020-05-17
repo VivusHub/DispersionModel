@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 To get started download the latest version of Matlab (or any version greater than version 6). Follow the instructions on the software installation [here](https://uk.mathworks.com/products/matlab.html?s_tid=hp_products_matlab) for MAC Os and [here] (https://uk.mathworks.com/products/matlab.html?s_tid=hp_products_matlab) for Windows then download this repository.
 
 ```
-$ git clone git://github.com/iamlyeon/DispersionModel/
+$ git clone git://github.com/VivusHub/DispersionModel/
 ```
 
 ### Running
@@ -86,12 +86,12 @@ The latest version is version 0.1.
 
 ## Authors
 
-**Seun Oboite**
-**Vivus Hub**
+* Seun Oboite
+* Vivus Hub Ltd
 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) and [Vivus Hub](https://www.vivushub.com/terms/terms) free use license.
+This project is licensed under the [MIT License](LICENSE).
  
 
